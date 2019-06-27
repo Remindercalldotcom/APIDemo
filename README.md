@@ -7,7 +7,7 @@ The demo page lets you:
 3. Send a voice call.
 4. Get the status of a text. 
 
-The sample page is here: http://www.snapnotify.net/APIDemo/apidemo.php
+The sample page is here: http://www.snapnotify.net/example/apidemo.php
 
 More information along with the Request and Response information is here: https://secure.remindercall.com/developers/api/xml/
 
