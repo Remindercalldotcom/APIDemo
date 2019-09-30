@@ -9,8 +9,6 @@ The demo page lets you:
 
 The sample page is here: http://www.snapnotify.net/example/apidemo.php
 
-More information along with the Request and Response information is here: https://secure.remindercall.com/developers/api/xml/
-
-Request sample code and more information by calling the office at 888-858-6673 or Email us at support@remindercall.com.
+More information, along with the Request and Response information can be requested at help@remindercall.com or 888-858-6673.
 
 Happy Testing!
